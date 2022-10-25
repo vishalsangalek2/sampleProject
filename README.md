@@ -1,2 +1,2 @@
-# sampleProject
+# SampleProject
 Basic Core Java Project
